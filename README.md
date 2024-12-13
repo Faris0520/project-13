@@ -1,16 +1,16 @@
-# Crypto Price Website
+# 2048 Game
 
-Welcome to the Crypto Price Website project! This is a simple web application that displays the current prices of various cryptocurrencies. By utilizing the CoinGecko API, this application provides price information and the 24-hour price change for several popular cryptocurrencies.
+2048 is a sliding puzzle game where the objective is to combine tiles with the same number to create a tile with the number 2048. This project is a web-based implementation of the game, allowing users to play directly in their browsers.
 
 ## Features
 
-- Displays the current prices of cryptocurrencies such as Bitcoin, Ethereum, Tether, Litecoin, Dogecoin, Solana, Binance Coin, and Ripple.
-- Shows the price change over the last 24 hours.
-- Responsive and attractive design using CSS.
+- Responsive design that works on various screen sizes.
+- Keeps track of the current score and high score.
+- Game over screen with an option to restart the game.
+- Smooth animations for tile movements and merges.
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
-- CoinGecko API
