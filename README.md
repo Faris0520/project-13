@@ -1,5 +1,7 @@
 # 2048 Game
 
+https://project-13-wheat.vercel.app/
+
 2048 is a sliding puzzle game where the objective is to combine tiles with the same number to create a tile with the number 2048. This project is a web-based implementation of the game, allowing users to play directly in their browsers.
 
 ## Features
